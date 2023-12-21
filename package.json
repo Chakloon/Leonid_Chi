@@ -1,0 +1,22 @@
+{
+  "name": "leonid_chi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chakloon/Leonid_Chi.git"
+  },
+  "author": "Leonid Chi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chakloon/Leonid_Chi/issues"
+  },
+  "homepage": "https://github.com/Chakloon/Leonid_Chi#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
